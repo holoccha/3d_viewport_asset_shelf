@@ -1,0 +1,29 @@
+schema_version = "1.0.0"
+
+id = "view3d_asset_shelf_enabler"
+version = "1.0.2"
+name = "3D Viewport Asset Shelf Enabler"
+tagline = "Enable a simple asset shelf in the 3D Viewport"
+maintainer = "holoccha"
+type = "add-on"
+
+tags = ["3D View", "User Interface"]
+
+blender_version_min = "4.5.0"
+
+license = [
+  "SPDX:GPL-3.0-or-later",
+]
+
+copyright = [
+  "2026 holoccha",
+]
+
+[build]
+paths_exclude_pattern = [
+  "__pycache__/",
+  ".DS_Store",
+  "/.git/",
+  "/*.zip",
+  "/dist/",
+]
