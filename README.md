@@ -17,8 +17,6 @@ Blender 4.5+ extension that registers a simple Asset Shelf for the 3D Viewport.
 
 ### Install from Disk
 
-This extension is not published on the official Blender Extensions platform.
-
 1. Download the packaged `.zip` file for this extension.
 2. Open `Edit > Preferences > Get Extensions` in Blender.
 3. Open the menu in the top-right corner and click `Install from Disk...`.

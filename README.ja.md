@@ -17,8 +17,6 @@
 
 ### ディスクからインストール
 
-この Extension は公式の Blender Extensions プラットフォームには掲載されていません。
-
 1. この Extension の `.zip` パッケージをダウンロードします。
 2. Blender で `編集 > プリファレンス > Get Extensions` を開きます。
 3. 右上のメニューから `Install from Disk...` を選びます。
